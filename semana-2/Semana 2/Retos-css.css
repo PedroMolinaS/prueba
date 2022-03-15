@@ -1,0 +1,30 @@
+.recuadro{
+    border: 1px solid #000;
+    width: 340px;
+    padding: 30px;
+}
+.form{
+    padding-left: 50px;
+}
+.form1{
+    padding: 50px;
+}
+.titule{
+    padding-left:  80px;
+    font-weight: bold 
+}
+h3{
+    color: gray;
+}
+#siguiente{
+    color: white;
+    background-color: green;
+}
+.button{
+    color: white;
+    margin-left: 30px;
+    background: blueviolet;
+}
+.subtitule{
+    font-weight: bold;
+}
